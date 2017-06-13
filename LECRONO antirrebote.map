@@ -1,0 +1,80 @@
+MPLINK 4.46, Linker
+Linker Map File - Created Mon Jun 12 16:50:07 2017
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000002
+                   .org_3       code   0x000005    program   0x0001da
+.config_2007_LECRONO ANTIRREBOTE.O       code   0x002007    program   0x000002
+.config_2008_LECRONO ANTIRREBOTE.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x0000f1      
+                            0x002007    0x002008      
+            241 out of 8455 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  BOTONSS   0x00007e    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                     CENT   0x0000b9    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                   DECIMA   0x0000c1    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    DISEG   0x0000cf    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                     DISP   0x000051    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                     EMPE   0x00004c    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                       L1   0x0000ea    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                      MIN   0x0000d6    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                   PARADO   0x000083    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    PREND   0x000088    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                   RECIBE   0x00008d    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  RECUP_E   0x000079    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  RESETEA   0x00009d    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                 RESET_14   0x0000af    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                 RESET_24   0x0000a4    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  RETARDO   0x0000e6    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                      RSI   0x00006a    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    SALIR   0x000073    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  SALVA_E   0x000075    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  SEGUNDO   0x0000c8    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    START   0x000005    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    TABLA   0x00005f    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000005    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                     EMPE   0x00004c    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                     DISP   0x000051    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    TABLA   0x00005f    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                      RSI   0x00006a    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    SALIR   0x000073    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  SALVA_E   0x000075    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  RECUP_E   0x000079    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  BOTONSS   0x00007e    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                   PARADO   0x000083    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    PREND   0x000088    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                   RECIBE   0x00008d    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  RESETEA   0x00009d    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                 RESET_24   0x0000a4    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                 RESET_14   0x0000af    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                     CENT   0x0000b9    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                   DECIMA   0x0000c1    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  SEGUNDO   0x0000c8    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                    DISEG   0x0000cf    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                      MIN   0x0000d6    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                  RETARDO   0x0000e6    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+                       L1   0x0000ea    program     static C:\Users\DAVID\Desktop\Crono-ED2\LECRONO antirrebote.ASM
+
+

@@ -1,0 +1,26 @@
+Warning[205] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 9 : Found directive in column 1. (LIST)
+Warning[205] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 10 : Found directive in column 1. (INCLUDE)
+Warning[205] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 37 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 38 : Found opcode in column 1. (GOTO)
+Warning[205] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 40 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 41 : Found opcode in column 1. (GOTO)
+Warning[205] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 43 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 66 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 70 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 72 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 73 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 76 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 81 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 85 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 88 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 92 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 100 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 103 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 113 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 287 : Using default destination of 1 (file).
+Message[305] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 295 : Using default destination of 1 (file).
+Message[305] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 303 : Using default destination of 1 (file).
+Message[305] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 311 : Using default destination of 1 (file).
+Message[305] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 336 : Using default destination of 1 (file).
+Message[305] C:\USERS\DAVID\DESKTOP\CRONO-ED2\LECRONO ANTIRREBOTE.ASM 338 : Using default destination of 1 (file).
